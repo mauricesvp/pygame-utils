@@ -1,4 +1,4 @@
-# c/o https://jonasjacek.github.io/colors/
+# https://jonasjacek.github.io/colors/
 BLACK = (0, 0, 0)
 MAROON = (128, 0, 0)
 GREEN = (0, 128, 0)
